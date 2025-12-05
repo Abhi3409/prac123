@@ -5,6 +5,8 @@ import './App.css'
 import Greeting from './components/Greeting'
 import Employee from './components/Employee'
 
+//2 lines updated
+
 function App() {
   const [count, setCount] = useState(0)
 
