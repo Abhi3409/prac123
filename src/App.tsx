@@ -5,7 +5,7 @@ import './App.css'
 import Greeting from './components/Greeting'
 import Employee from './components/Employee'
 
-//2 lines updated
+//2 lines updated - 2nd line changed
 //3rd line changed
 
 function App() {
